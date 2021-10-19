@@ -1,0 +1,3 @@
+In Python you can split a string.
+In Python you can creat dictionaries.
+In Python you can write classes.
